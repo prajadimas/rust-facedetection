@@ -1,6 +1,6 @@
 # Belajar OpenCV on Rust ([Face Detection](https://github.com/twistedfall/opencv-rust/blob/master/examples/video_facedetect.rs))
 
-## Steps to reproduce on Linux - [OpenCV: Installation in Linux](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html) with some adjustment:
+Steps to reproduce on Linux - [OpenCV: Installation in Linux](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html) with some adjustment:
 1. Install dependencies (cmake, g++/gcc, wget, unzip)
 2. Install OpenCV (3.2, 3.4, 4.x)
   - Manual
